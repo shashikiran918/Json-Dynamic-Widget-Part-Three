@@ -1,0 +1,21 @@
+{
+  "type": "center",
+  "child": {
+    "type": "container",
+    "args": {
+      "height": 70,
+      "margin": [10, 5]
+    },
+    "child": {
+      "type": "text",
+      "args": {
+        "text": "Something Went Wrong , Please try Again Later",
+        "style": {
+          "color": "#D0482B",
+          "fontSize": 16,
+          "fontWeight": "bold"
+        }
+      }
+    }
+  }
+}

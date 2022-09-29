@@ -1,0 +1,332 @@
+{
+  "type": "list_view",
+  "args": {
+    "shrinkWrap": "true",
+    "scrollDirection": "vertical"
+  },
+  "children": [
+    {
+      "type": "list_tile",
+      "args": {
+        "title": {
+          "type": "text",
+          "args": {
+            "text": "HPCL EXAM PREPARATION",
+            "style": {
+              "color": "#36454F",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            }
+          }
+        },
+        "subtitle": {
+          "type": "text",
+          "args": {
+            "text": "HPCL Recruitment 2022 Apply Online for 262 HPCL Vacancies",
+            "style": {
+              "color": "#B0A3A0",
+              "fontSize": 12,
+              "fontWeight": "bold"
+            }
+          }
+        },
+        "leading": {
+          "type": "container",
+          "args": {
+            "width": 100,
+            "height": 100
+          },
+          "child": {
+            "type": "network_image",
+            "args": {
+              "src": "https://www.yourpedia.in/UploadData/5d55e2d3-25be-4902-b956-c81c087c54aeHpcl-Exam-Preparation.jpg"
+            }
+          }
+        },
+        "onTap": "${navigate_named('/NotificationWebview','0')}"
+      }
+    },
+    {
+      "type": "sized_box",
+       "args": {
+         "height": 15
+       }
+    },
+    {
+      "type": "list_tile",
+      "args": {
+        "title": {
+          "type": "text",
+          "args": {
+            "text": "POST GATE COUNSELLING",
+            "style": {
+              "color": "#36454F",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            }
+          }
+        },
+        "subtitle": {
+          "type": "text",
+          "args": {
+            "text": "What are the options after GATE, Post GATE Counseling Session",
+            "style": {
+              "color": "#B0A3A0",
+              "fontSize": 12,
+              "fontWeight": "bold"
+            }
+          }
+        },
+        "leading": {
+          "type": "container",
+          "args": {
+            "width": 100,
+            "height": 100
+          },
+          "child": {
+            "type": "network_image",
+            "args": {
+              "src": "https://www.yourpedia.in/UploadData/75fb2aa9-c293-4217-9604-27b1ad2c84cfPostGateC.jpg"
+            }
+          }
+        },
+        "onTap": "${navigate_named('/NotificationWebview','1')}"
+      }
+    },
+    {
+      "type": "sized_box",
+      "args": {
+        "height": 1
+      }
+    },
+    {
+      "type": "list_tile",
+      "args": {
+        "title": {
+          "type": "text",
+          "args": {
+            "text": "FOREIGN ADMISSIONS",
+            "style": {
+              "color": "#36454F",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            }
+          }
+        },
+        "subtitle": {
+          "type": "text",
+          "args": {
+            "text": "Foreign Consultancy",
+            "style": {
+              "color": "#B0A3A0",
+              "fontSize": 12,
+              "fontWeight": "bold"
+            }
+          }
+        },
+        "leading": {
+          "type": "container",
+          "args": {
+            "width": 100,
+            "height": 100
+          },
+          "child": {
+            "type": "network_image",
+            "args": {
+              "src": "https://www.yourpedia.in/UploadData/40de331f-cb8c-4258-9e26-d9128aadcf41Foreign-Adm.jpg"
+            }
+          }
+        },
+        "onTap": "${navigate_named('/NotificationWebview','2')}"
+      }
+    },
+    {
+      "type": "sized_box",
+      "args": {
+        "height": 1
+      }
+    },
+    {
+      "type": "list_tile",
+      "args": {
+        "title": {
+          "type": "text",
+          "args": {
+            "text": "GATE & NPTEL Q's Module",
+            "style": {
+              "color": "#36454F",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            }
+          }
+        },
+        "subtitle": {
+          "type": "text",
+          "args": {
+            "text": "GATE of opportunities for Engineers",
+            "style": {
+              "color": "#B0A3A0",
+              "fontSize": 12,
+              "fontWeight": "bold"
+            }
+          }
+        },
+        "leading": {
+          "type": "container",
+          "args": {
+            "width": 100,
+            "height": 100
+          },
+          "child": {
+            "type": "network_image",
+            "args": {
+              "src": "https://www.yourpedia.in/UploadData/a49c6eda-5168-4c83-8084-f08d284b84883-GATE.jpg"
+            }
+          }
+        },
+        "onTap": "${navigate_named('/NotificationWebview','3')}"
+      }
+    },
+    {
+      "type": "sized_box",
+      "args": {
+        "height": 15
+      }
+    },
+    {
+      "type": "list_tile",
+      "args": {
+        "title": {
+          "type": "text",
+          "args": {
+            "text": "ESE Prelims Paper 1",
+            "style": {
+              "color": "#36454F",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            }
+          }
+        },
+        "subtitle": {
+          "type": "text",
+          "args": {
+            "text": "ESE Prelims Paper 1 | Download Your Treasure Trove of Prelims Answer Key",
+            "style": {
+              "color": "#B0A3A0",
+              "fontSize": 12,
+              "fontWeight": "bold"
+            }
+          }
+        },
+        "leading": {
+          "type": "container",
+          "args": {
+            "width": 100,
+            "height": 100
+          },
+          "child": {
+            "type": "network_image",
+            "args": {
+              "src": "https://www.yourpedia.in/UploadData/7737b362-9e0d-4b20-a666-7db82a9a3151ese-pre.jpg"
+            }
+          }
+        },
+        "onTap": "${navigate_named('/NotificationWebview','4')}"
+      }
+    },
+    {
+      "type": "sized_box",
+      "args": {
+        "height": 15
+      }
+    },
+    {
+      "type": "list_tile",
+      "args": {
+        "title": {
+          "type": "text",
+          "args": {
+            "text": "AAI ATC Exam",
+            "style": {
+              "color": "#36454F",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            }
+          }
+        },
+        "subtitle": {
+          "type": "text",
+          "args": {
+            "text": "AAI Recruitment 2022 Junior Executive Notification is released!",
+            "style": {
+              "color": "#B0A3A0",
+              "fontSize": 12,
+              "fontWeight": "bold"
+            }
+          }
+        },
+        "leading": {
+          "type": "container",
+          "args": {
+            "width": 100,
+            "height": 100
+          },
+          "child": {
+            "type": "network_image",
+            "args": {
+              "src": "https://www.yourpedia.in/UploadData/9f3959b0-ec9b-40b5-a9ee-8cde4da7f972AAI-ATC-JE-Exam-Web.jpg"
+            }
+          }
+        },
+        "onTap": "${navigate_named('/NotificationWebview','5')}"
+      }
+    },
+    {
+      "type": "sized_box",
+      "args": {
+        "height": 15
+      }
+    },
+    {
+      "type": "list_tile",
+      "args": {
+        "title": {
+          "type": "text",
+          "args": {
+            "text": "Mock Interview/GD/GT",
+            "style": {
+              "color": "#36454F",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            }
+          }
+        },
+        "subtitle": {
+          "type": "text",
+          "args": {
+            "text": "Mock Interviews",
+            "style": {
+              "color": "#B0A3A0",
+              "fontSize": 12,
+              "fontWeight": "bold"
+            }
+          }
+        },
+        "leading": {
+          "type": "container",
+          "args": {
+            "width": 100,
+            "height": 100
+          },
+          "child": {
+            "type": "network_image",
+            "args": {
+              "src": "https://www.yourpedia.in/UploadData/968e7c17-ecf3-45c5-9ceb-3a24736aa817mock.jpg"
+            }
+          }
+        },
+        "onTap": "${navigate_named('/NotificationWebview','6')}"
+      }
+    }
+  ]
+}

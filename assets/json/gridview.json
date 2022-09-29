@@ -1,0 +1,249 @@
+{
+  "type": "container",
+  "args": {
+    "height": 150,
+    "margin": [
+      10,
+      5
+    ]
+  },
+  "child": {
+    "type": "list_view",
+    "args": {
+      "shrinkWrap": "true",
+      "scrollDirection": "horizontal"
+    },
+    "children": [
+      {
+        "type": "center",
+        "child": {
+          "type": "gesture_detector",
+          "args": {
+            "onTap": "${navigate_named('/NotificationWebview','12')}"
+          },
+          "child": {
+            "type": "container",
+            "args": {
+              "width": "240"
+            },
+            "child": {
+              "type": "card",
+              "args": {
+                "color": "#E91E63",
+                "elevation": 2,
+                "shape": {
+                  "type": "rounded",
+                  "borderRadius": 15
+                }
+              },
+              "child": {
+                "type": "column",
+                "args": {
+                  "mainAxisSize": "min"
+                },
+                "children": [
+                  {
+                    "type": "network_image",
+                    "args": {
+                      "src": "https://www.yourpedia.in/UploadData/abb8de32-0d8d-434d-a29d-930df1e91481PGC-2022.jpg"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": "sized_box",
+        "args": {
+          "width": 8
+        }
+      },
+      {
+        "type": "center",
+        "child": {
+          "type": "gesture_detector",
+          "args": {
+            "onTap": "${navigate_named('/NotificationWebview','13')}"
+          },
+          "child": {
+            "type": "container",
+            "args": {
+              "width": "240"
+            },
+            "child": {
+              "type": "card",
+              "args": {
+                "color": "#E91E63",
+                "elevation": 2,
+                "shape": {
+                  "type": "rounded",
+                  "borderRadius": 15
+                }
+              },
+              "child": {
+                "type": "column",
+                "args": {
+                  "mainAxisSize": "min"
+                },
+                "children": [
+                  {
+                    "type": "network_image",
+                    "args": {
+                      "src": "https://www.yourpedia.in/UploadData/1e3a6e19-9bcf-4a3e-b99a-8dc98ff57e46PSU.jpg"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": "sized_box",
+        "args": {
+          "width": 8
+        }
+      },
+      {
+        "type": "center",
+        "child": {
+          "type": "gesture_detector",
+          "args": {
+            "onTap": "${navigate_named('/NotificationWebview','14')}"
+          },
+          "child": {
+            "type": "container",
+            "args": {
+              "width": "240"
+            },
+            "child": {
+              "type": "card",
+              "args": {
+                "color": "#E91E63",
+                "elevation": 2,
+                "shape": {
+                  "type": "rounded",
+                  "borderRadius": 15
+                }
+              },
+              "child": {
+                "type": "column",
+                "args": {
+                  "mainAxisSize": "min"
+                },
+                "children": [
+                  {
+                    "type": "network_image",
+                    "args": {
+                      "src": "https://www.yourpedia.in/UploadData/a74df184-de2b-4ba6-963d-064a71b0ee4dHPCL-Selections-3.jpg"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": "sized_box",
+        "args": {
+          "width": 8
+        }
+      },
+      {
+        "type": "center",
+        "child": {
+          "type": "gesture_detector",
+          "args": {
+            "onTap": "${navigate_named('/NotificationWebview','15')}"
+          },
+          "child": {
+            "type": "container",
+            "args": {
+              "width": "240"
+            },
+            "child": {
+              "type": "card",
+              "args": {
+                "color": "#E91E63",
+                "elevation": 2,
+                "shape": {
+                  "type": "rounded",
+                  "borderRadius": 15
+                }
+              },
+              "child": {
+                "type": "column",
+                "args": {
+                  "mainAxisSize": "min"
+                },
+                "children": [
+                  {
+                    "type": "network_image",
+                    "args": {
+                      "src": "https://www.yourpedia.in/UploadData/2528d65f-874f-48e0-8988-6297bf762d45Jyoti-Selection-thumb.jpg"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": "sized_box",
+        "args": {
+          "width": 8
+        }
+      },
+      {
+        "type": "center",
+        "child": {
+          "type": "gesture_detector",
+          "args": {
+            "onTap": "${navigate_named('/NotificationWebview','16')}"
+          },
+          "child": {
+            "type": "container",
+            "args": {
+              "width": "240"
+            },
+            "child": {
+              "type": "card",
+              "args": {
+                "color": "#E91E63",
+                "elevation": 2,
+                "shape": {
+                  "type": "rounded",
+                  "borderRadius": 15
+                }
+              },
+              "child": {
+                "type": "column",
+                "args": {
+                  "mainAxisSize": "min"
+                },
+                "children": [
+                  {
+                    "type": "network_image",
+                    "args": {
+                      "src": "https://www.yourpedia.in/UploadData/6c32816b-0a9c-4d6d-accb-e239916aab30UPPSC.jpg"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": "sized_box",
+        "args": {
+          "width": 8
+        }
+      }
+    ]
+  }
+}

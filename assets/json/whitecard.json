@@ -1,0 +1,356 @@
+{
+  "type": "container",
+  "args": {
+    "height": 175,
+    "margin": [10,10]
+  },
+  "child": {
+    "type": "list_view",
+    "args": {
+      "shrinkWrap": "true",
+      "scrollDirection": "horizontal"
+    },
+    "children": [
+      {
+        "type": "gesture_detector",
+        "args": {
+          "onTap": "${navigate_named('/NotificationWebview','7')}"
+        },
+        "child": {
+          "type": "container",
+          "args": {
+            "width": "200"
+          },
+          "child": {
+            "type": "card",
+            "args": {
+              "color": "#FFFFFF",
+              "elevation": 2,
+              "shape": {
+                "type": "rounded",
+                "borderRadius": 15
+              }
+            },
+            "child": {
+              "type": "column",
+              "args": {
+                "mainAxisSize": "min"
+              },
+              "children": [
+                {
+                  "type": "container",
+                  "args": {
+                    "width": 100,
+                    "height": 100,
+                    "margin": [10,10]
+                  },
+                  "child": {
+                    "type": "network_image",
+                    "args": {
+                      "src": "https://www.yourpedia.in/Responsive/assets/images/png/programmer.png"
+                    }
+                  }
+                },
+                {
+                  "type": "sized_box",
+                  "args": {
+                    "height": 10
+                  }
+                },
+                {
+                  "type": "text",
+                  "args": {
+                    "text": "ESE / IES 2022",
+                    "style": {
+                      "color": "#D0482B",
+                      "fontSize": 16,
+                      "fontWeight": "bold"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "type": "sized_box",
+        "args": {
+          "width": 8
+        }
+      },
+      {
+        "type": "gesture_detector",
+        "args": {
+          "onTap": "${navigate_named('/NotificationWebview','8')}"
+        },
+        "child": {
+          "type": "container",
+          "args": {
+            "width": "200"
+          },
+          "child": {
+            "type": "card",
+            "args": {
+              "color": "#FFFFFF",
+              "elevation": 2,
+              "shape": {
+                "type": "rounded",
+                "borderRadius": 15
+              }
+            },
+            "child": {
+              "type": "column",
+              "args": {
+                "mainAxisSize": "min"
+              },
+              "children": [
+                {
+                  "type": "container",
+                  "args": {
+                    "width": 100,
+                    "height": 100,
+                    "margin": [10,10]
+                  },
+                  "child": {
+                    "type": "network_image",
+                    "args": {
+                      "src": "https://www.yourpedia.in/Responsive/assets/images/png/programmer.png"
+                    }
+                  }
+                },
+                {
+                  "type": "sized_box",
+                  "args": {
+                    "height": 10
+                  }
+                },
+                {
+                  "type": "text",
+                  "args": {
+                    "text": "GATE",
+                    "style": {
+                      "color": "#D0482B",
+                      "fontSize": 16,
+                      "fontWeight": "bold"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "type": "sized_box",
+        "args": {
+          "width": 8
+        }
+      },
+      {
+        "type": "gesture_detector",
+        "args": {
+          "onTap": "${navigate_named('/NotificationWebview','9')}"
+        },
+        "child": {
+          "type": "container",
+          "args": {
+            "width": "200"
+          },
+          "child": {
+            "type": "card",
+            "args": {
+              "color": "#FFFFFF",
+              "elevation": 2,
+              "shape": {
+                "type": "rounded",
+                "borderRadius": 15
+              }
+            },
+            "child": {
+              "type": "column",
+              "args": {
+                "mainAxisSize": "min"
+              },
+              "children": [
+                {
+                  "type": "container",
+                  "args": {
+                    "width": 100,
+                    "height": 100,
+                    "margin": [10,10]
+                  },
+                  "child": {
+                    "type": "network_image",
+                    "args": {
+                      "src": "https://www.yourpedia.in/Responsive/assets/images/png/programmer.png"
+                    }
+                  }
+                },
+                {
+                  "type": "sized_box",
+                  "args": {
+                    "height": 10
+                  }
+                },
+                {
+                  "type": "text",
+                  "args": {
+                    "text": "PSUs",
+                    "style": {
+                      "color": "#D0482B",
+                      "fontSize": 16,
+                      "fontWeight": "bold"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "type": "sized_box",
+        "args": {
+          "width": 8
+        }
+      },
+      {
+        "type": "gesture_detector",
+        "args": {
+          "onTap": "${navigate_named('/NotificationWebview','10')}"
+        },
+        "child": {
+          "type": "container",
+          "args": {
+            "width": "200"
+          },
+          "child": {
+            "type": "card",
+            "args": {
+              "color": "#FFFFFF",
+              "elevation": 2,
+              "shape": {
+                "type": "rounded",
+                "borderRadius": 15
+              }
+            },
+            "child": {
+              "type": "column",
+              "args": {
+                "mainAxisSize": "min"
+              },
+              "children": [
+                {
+                  "type": "container",
+                  "args": {
+                    "width": 100,
+                    "height": 100,
+                    "margin": [10,10]
+                  },
+                  "child": {
+                    "type": "network_image",
+                    "args": {
+                      "src": "https://www.yourpedia.in/Responsive/assets/images/png/programmer.png"
+                    }
+                  }
+                },
+                {
+                  "type": "sized_box",
+                  "args": {
+                    "height": 10
+                  }
+                },
+                {
+                  "type": "text",
+                  "args": {
+                    "text": "SSC-JEn",
+                    "style": {
+                      "color": "#D0482B",
+                      "fontSize": 16,
+                      "fontWeight": "bold"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "type": "sized_box",
+        "args": {
+          "width": 8
+        }
+      },
+      {
+        "type": "gesture_detector",
+        "args": {
+          "onTap": "${navigate_named('/NotificationWebview','11')}"
+        },
+        "child": {
+          "type": "container",
+          "args": {
+            "width": "200"
+          },
+          "child": {
+            "type": "card",
+            "args": {
+              "color": "#FFFFFF",
+              "elevation": 2,
+              "shape": {
+                "type": "rounded",
+                "borderRadius": 15
+              }
+            },
+            "child": {
+              "type": "column",
+              "args": {
+                "mainAxisSize": "min"
+              },
+              "children": [
+                {
+                  "type": "container",
+                  "args": {
+                    "width": 100,
+                    "height": 100,
+                    "margin": [10,10]
+                  },
+                  "child": {
+                    "type": "network_image",
+                    "args": {
+                      "src": "https://www.yourpedia.in/Responsive/assets/images/png/programmer.png"
+                    }
+                  }
+                },
+                {
+                  "type": "sized_box",
+                  "args": {
+                    "height": 10
+                  }
+                },
+                {
+                  "type": "text",
+                  "args": {
+                    "text": "State AE/JE Exams",
+                    "style": {
+                      "color": "#D0482B",
+                      "fontSize": 16,
+                      "fontWeight": "bold"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "type": "sized_box",
+        "args": {
+          "width": 8
+        }
+      }
+    ]
+  }
+}
